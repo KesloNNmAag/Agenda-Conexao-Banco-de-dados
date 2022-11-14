@@ -1,6 +1,6 @@
 <?php
 require_once 'classe.php';
-$p = new Pessoa("agenda", "localhost", "root", "");
+$p = new Pessoa("agenda", "localhost", "root", "Keslon1123");
 ?>
 
 <!DOCTYPE html>
